@@ -6,4 +6,5 @@ Architecture: iphoneos-arm
 Description: 롯데리아 앱의 탈옥을 우회시킵니다.
 Maintainer: PeterDev <djperter@icloud.com>
 Author: PeterDev <djperter@icloud.com>
+Depiction: http://nexusrepo.kro.kr/depictions/?p=com.peterdev.bypasslotteria
 Section: Tweaks
