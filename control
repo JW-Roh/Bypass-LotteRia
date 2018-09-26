@@ -1,9 +1,9 @@
 Package: com.peterdev.bypasslotteria
 Name: Bypass LotteRia
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: 롯데리아 앱의 탈옥을 우회시킵니다.
 Maintainer: PeterDev <djperter@icloud.com>
 Author: PeterDev <djperter@icloud.com>
 Section: Tweaks
